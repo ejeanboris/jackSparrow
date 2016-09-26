@@ -1,0 +1,20 @@
+ _________________________________________
+/ Include these in your                   \
+| ~/arduino-x.x/libraries folder. These   |
+| libraries are not under development,    |
+| and are included in all of the code     |
+| with #define <> directives.             |
+|                                         |
+| All other code must be included through |
+| their directory, using the #define ""   |
+| directives                              |
+|                                         |
+| This will help avoid using sim-links to |
+| develop the custom libraries actively   |
+\ through git                             /
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
