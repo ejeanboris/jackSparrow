@@ -1,7 +1,6 @@
-
-#include <PressureSensor.h>
-#include <TransceiverModule.h>
-#include <Accelerometer.h>
+#include "PressureSensor/PressureSensor.h"
+#include "TransceiverModule/TransceiverModule.h"
+#include "Accelerometer/Accelerometer.h"
 //#include <SoftwareSerial.h>
 
 //Flight Stages of the Rocket
